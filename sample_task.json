@@ -1,0 +1,25 @@
+{
+  "title": "AI partnerships market map",
+  "brief": "Map the current AI partnerships landscape, key demand shifts, competitor positioning, and the strategic implications for a B2B software company.",
+  "research_questions": [
+    "What changed in the last 12 months?",
+    "Which competitors are most active and how are they positioned?",
+    "What risks and opportunities matter most for leadership?"
+  ],
+  "entities": [
+    "Microsoft",
+    "Google",
+    "Amazon"
+  ],
+  "focus_areas": [
+    "partner ecosystem",
+    "enterprise demand",
+    "competitive strategy"
+  ],
+  "report_type": "strategic_report",
+  "output_language": "English",
+  "max_findings": 8,
+  "search_depth": 2,
+  "html_requested": false,
+  "run_interval_minutes": 60
+}
